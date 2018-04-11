@@ -1,0 +1,7 @@
+[package]
+name = "dojo"
+version = "0.1.0"
+authors = ["Somer Son <somersonmedia@gmail.com>"]
+
+[dependencies]
+piston_window = "*"
